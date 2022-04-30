@@ -1,6 +1,6 @@
 weghte = float(input(" inter your weghte"))
 height = float(input(" inter your height cm "))
-height /= 100
+height /= 100  # more comments for more clarity
 
 bmi = weghte/height**2
 
